@@ -1,12 +1,12 @@
-# Big Data
+# Big Data Project EU CO2 emissions
+## PLAN
 
-## Idées questions recherche (191002)
-* Quel est le meilleur système éducatif européen?
-données?
----
-* Quel est le rôle de la mobilité dans la transition écologique?
-données?
----
-* La technologie nous sauvera-t-elle de la crise écologique?
-(analyse de la balance entre gain d'énergie - consommation lors de l'utilisation de nouvelle tech)
-EX: voiture électrique, blockchain,..
+* State of EU production/consummation.   
+(/!\ Be careful about to whom belong consummation)   
+
+* Find EU directives about CO2 emissions
+
+## USEFUL DBs plateform
+
+* [KAGGLE](https://www.kaggle.com/datasets)
+* [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
