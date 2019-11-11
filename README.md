@@ -10,3 +10,6 @@
 
 * [KAGGLE](https://www.kaggle.com/datasets)
 * [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
+
+## TO BE READ ARTICLES
+* [Energy Imports on the rise](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/DDN-20191021-1)
