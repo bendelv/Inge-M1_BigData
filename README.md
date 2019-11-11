@@ -1,10 +1,14 @@
 # Big Data Project EU CO2 emissions
 ## PLAN
 
-* State of EU production/consummation.   
+1. State of EU production/consummation.   
 (/!\ Be careful about to whom belong consummation)   
 
-* Find EU directives about CO2 emissions
+2. Find EU directives about CO2 emissions
+
+## RESEARCH QUESTIONS
+* Allocation of fossil energy for elec
+* What means to be enough?
 
 ## USEFUL DBs plateform
 
