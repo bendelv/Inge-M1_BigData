@@ -17,6 +17,7 @@
 1. Which form of energy produces CO2 (and other emissions?)
 
 ### NEXT MILESTONE V2
+* Why this question has to be stated? (actual situation)
 * IN DEPTH study of carbon cycle (*)
 * present naive SECTORS of emissions (individual, public, private, ..)
 * present naive FACTORS of emissions (transport, heating, wastes, energies ..)
