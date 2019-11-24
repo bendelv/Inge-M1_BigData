@@ -1,0 +1,3 @@
+# CURTIS NOTES
+
+## REMARKS
