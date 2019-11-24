@@ -2,26 +2,11 @@
 ## PLANS
 
 ### NEXT MILESTONE
-* General
-
-* Production
-1. Which form of energy?
-2. Whom product what as energy?
-3. In which proportion?
-
-* Consummation
-1. Which country consume? What?
-2. 
-
-* Emission
-1. Which form of energy produces CO2 (and other emissions?)
-
-### NEXT MILESTONE V2
 * Why this question has to be stated? (actual situation)
-* IN DEPTH study of carbon cycle (*)
+* Study of carbon dynamic.
 * present naive SECTORS of emissions (individual, public, private, ..)
 * present naive FACTORS of emissions (transport, heating, wastes, energies ..)
-* 
+* How to calculate CO2 emissions? [HERE]()
 
 ### LONG TERM ROADMAP 
 1. State of EU production/consummation.   
