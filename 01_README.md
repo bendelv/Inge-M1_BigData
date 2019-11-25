@@ -1,28 +1,36 @@
 # Big Data Project EU CO2 emissions
+## OVERLEAF RAPPORTS
+
 ## PLANS
 
-### NEXT MILESTONE
-* Why this question has to be stated? (actual situation)
-* Study of carbon dynamic.
-* present naive SECTORS of emissions (individual, public, private, ..). What are the factors of growth of these sectors ?
-* What are the strategies in place to reduce CO2 emission in these sectors ?
-* present naive FACTORS of emissions (transport, heating, wastes, energies ..)
-* How to calculate CO2 emissions?
+### NEXT MILESTONE (PV 2019-11-25)
+1. Why this question has to be stated? (actual situation)  
+[ ] What is Green House gas Effect?  
+[ ] What are actual Green House gas?  
+[ ] Why narrow research to CO2 emissions?  
 
-### LONG TERM ROADMAP 
-1. State of EU production/consummation.   
-(/!\ Be careful about to whom belong consummation)   
+2. Study of carbon dynamics.  
+[ ] What is CO2? How does it interact with environment?  
+[ ] What are main SOURCES of emissions?  
 
-2. Find EU directives about CO2 emissions
+3. What are the strategies in place to reduce CO2 emissions?  
+[ ] National/EU/International policies and agreements in place?  
+[ ] Are those policies followed by governments?  
+
+4. How to estimate CO2 emissions in a region?  
+[ ] What does exist in literature?    
+[ ] How could we calculate historic emissions? What are variables?  
+[ ] How could we forecast emissions?
+
+5. What's our roadmap for the next 6 months?  
+[ ] Identify clusters of countries in UE based on type of CO2 emissions.  
+[ ] Check emissions models calculations with recent data gathering.
 
 ## RESEARCH QUESTIONS
-* What means to be enough? (*)
+* What are factors of growth of CO2 emissions? Trends? Dynamics btw sources?
 * Link between co2 emission and energy production
 * Link between co2 emission and energy consumption
-* How can we modeling co2 cycle? Natural? Human? Interactions?
 * What is the frontier of the emission of a country (importation of products containing embedded carbon, etc ) ?
-* What are the planned strategies? What are the probabilities that they be actually applied ?
-* Energetic dependence of countries (?)
 * Match between production and consummation and loss occasioned. (?)
 * Allocation of fossil energy for elec (?)
 
@@ -36,3 +44,8 @@
 
 ## TO BE READ ARTICLES AND TO CHECK TERMS
 * [Energy Imports on the rise](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/DDN-20191021-1)
+
+## USEFUL GIT/LATEX/MARKDOWN TUTO/TOOL
+ * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ * [Learn GIT branching](https://learngitbranching.js.org/)
+ * [Easy tables in LATEX](http://www.tablesgenerator.com/#)

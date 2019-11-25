@@ -1,4 +1,4 @@
-#GLOSSARY
+# GLOSSARY
 
 ## Definitions
 - __Energy intensity__:  

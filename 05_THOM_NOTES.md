@@ -23,6 +23,7 @@
 
 	* Proportion of CO2 in the greenhouse gases -> ~20% (contridution 9-26%)
 	* Growth since 1950: 41.2%
+	
 ## DBs
 
 Emission in C02 equivalent in ESD per country (clean but small):
