@@ -24,3 +24,13 @@ Total greenhouse gas emissions in kt of CO2 EQUIVALENT are composed of CO2 total
 - __Useful information__:  
 https://www.ucsusa.org/resources/why-does-co2-get-more-attention-other-gases?fbclid=IwAR1lTXCIfDh9zTuTCWLazDoM5U37uabVqyw26A8VqJCSG-AONPe-Z1EI-GE -> why CO2 and not others greenhouses by example ?  
 https://www.nationalgeographic.com/environment/global-warming/greenhouse-gases/?fbclid=IwAR080oPXE66sizaNXXt73cXLhqny8TmvdZ27jcJZI6MyyOL19GeSazXu9jU -> Information on greenhouse gases
+
+-__To do__:  
+- Greenhouse gases produced by burning fossil fuels graphs
+- CO2 emissions graphs
+- Greenhouse gases by sector of activity graphs
+- Try to compare them in order to make choices and not work on all the countries of the EU.
+- Try to compare then in order to show why chosing to point out CO2 and not others greenhouse gases.
+-  Use plotly for the graphs
+-  Wouldn't it be better to do a markdown instead of slides for the presentation ?
+-  Bar plot, pie plot, times series -> look for interesting time series analysis also
