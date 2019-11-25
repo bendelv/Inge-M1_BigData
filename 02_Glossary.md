@@ -5,39 +5,34 @@
 A measure of the energy inefficiency of an economy.  
 It is calculated as units of energy per unit of GDP.
 
-- __CO2 equivalent__:
+- __CO2 equivalent__:  
 The CO2 equivalent is, for a GREENHOUSE GAS, the quantity of CO2 that would cause the same RADIATIVE FORCING as this gas,
-i.e. that would have the same capacity to retain solar radiation.
+i.e. that would have the same capacity to retain solar radiation. It is expressed by applying a conversion factor, the global warming potential (GWP), which depends on the length of the period considered.
 
-It is expressed by applying a conversion factor, the global warming potential (GWP),
-which depends on the length of the period considered.
-
-- __Radiative forcing or climate forcing__:
+- __Radiative forcing or climate forcing__:  
 Radiative forcing or climate forcing is the difference between insolation (radiative energy received by the sun) absorbed by the Earth and energy radiated back to space. A system in thermal equilibrium has zero radiative forcing. Changes that modify Earth's radiative equilibrium
-are called climate forcings. 
-
+are called climate forcings.  
 Positive radiative forcing means Earth receives more incoming energy from sunlight than it radiates to space. This net gain of energy will cause warming.
-
 Negative radiative forcing means that Earth loses more energy to space than it receives from the sun, which produces cooling.
-
 A system in thermal equilibrium has zero radiative forcing.
 
-- __Greenhouse gases__:
+- __Greenhouse gases__:  
 A greenhouse gas (GHG) is a gas that absorbs and emits radiant energy within the thermal infrared range.
 Greenhouse gases cause the greenhouse effect.
 
-- __Greenhouse effect__:
+- __Greenhouse effect__:  
 The greenhouse effect is a natural process that warms the Earth’s surface. When the Sun’s energy reaches the Earth’s atmosphere,
 some of it is reflected back to space and the rest is absorbed and re-radiated by greenhouse gases.
 
 
-- __Global warming potential__:
+- __Global warming potential__:  
 Global warming potential (GWP) is a measure of how much heat a greenhouse gas traps in the atmosphere up to a specific
 time horizon, relative to carbon dioxide. It compares the amount of heat trapped by a certain mass of the gas in question to the amount of heat trapped by a similar mass of carbon dioxide and is expressed as a factor of carbon dioxide (whose GWP is standardized to 1).
-
 A GWP is calculated over a specific time horizon, commonly 20, 100, or 500 years
 
 ## Acronymes
+
+- __GHG (Greenhouse gases)__:  
 
 - __ETS (Emission Trading System)__:  
 
