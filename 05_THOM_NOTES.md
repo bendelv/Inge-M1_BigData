@@ -43,4 +43,4 @@ Less precise links:
 	https://www.eea.europa.eu/themes/climate/different-emission-estimates/emission-estimates-produced-by-eu
  
 ## REMARKS
-(BEN) les sources? Il faudrait aussi les sources des bases de données, pas une bonne idée de push les DBs
+(BEN) les sources pour UE objectives?
