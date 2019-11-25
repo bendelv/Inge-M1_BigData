@@ -1,4 +1,12 @@
 #GLOSSARY
+
+## Definitions
+- __Energy intensity__:  
+A measure of the energy inefficiency of an economy.  
+It is calculated as units of energy per unit of GDP.
+
+## Acronymes
+
 - __ETS (Emission Trading System)__:  
 
 Process in which companies can trade emission allowance to one another and this is done for a given cap (calculated goal for entire UE aviation diff).
@@ -15,7 +23,10 @@ domestic aviation and NF3 emissions from national total emissions.
 - __GWP (Global Warming Potential)__:  
 
  -> for gazes
- 
+
+- __GDP (Gross Domestic Product)__:  
+"PIB"
+
  ## International agreements
  - __Paris agreement__ :  
 

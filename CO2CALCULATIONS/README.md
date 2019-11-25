@@ -1,8 +1,8 @@
 # HOW TO CALCULATE CO2 EMISSIONS?
 
-## CURTIS NOTES
+## CURTIS FINDINGS
 
-### [Prediction and Analysis of CO2 Emission in Chongqing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5877075/)
+### 1. [Prediction and Analysis of CO2 Emission in Chongqing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5877075/)
 
 __Lire toute l'analyse ! -> TRES INTERESSANT.__
 
@@ -33,7 +33,7 @@ For us :
 
 (*) Those data are used to compute the emission of CO2.  
 
-### [DATASET: CO2 emissions from electricity gen.](https://www.kaggle.com/berhag/co2-emission-forecast-with-python-seasonal-arima)
+### 2. [DATASET: CO2 emissions from electricity gen.](https://www.kaggle.com/berhag/co2-emission-forecast-with-python-seasonal-arima)
 
 This paper is practically the same than the previous paper but data he chose are only for the electric power sector.
 Paper5 is more accurate by the way.

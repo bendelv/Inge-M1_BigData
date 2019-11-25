@@ -7,7 +7,7 @@
 * present naive SECTORS of emissions (individual, public, private, ..). What are the factors of growth of these sectors ?
 * What are the strategies in place to reduce CO2 emission in these sectors ?
 * present naive FACTORS of emissions (transport, heating, wastes, energies ..)
-* How to calculate CO2 emissions? [HERE]()
+* How to calculate CO2 emissions?
 
 ### LONG TERM ROADMAP 
 1. State of EU production/consummation.   
@@ -29,11 +29,10 @@
  /!\ Which UNITS to use to present? /!\  
   
   (?) is this Q relevant?  - (*) seems to make sense
-## USEFUL DBs plateform
+## USEFUL DBs PLATEFORMS
 
 * [KAGGLE](https://www.kaggle.com/datasets)
 * [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
 
-## TO BE READ ARTICLES
+## TO BE READ ARTICLES AND TO CHECK TERMS
 * [Energy Imports on the rise](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/DDN-20191021-1)
-
