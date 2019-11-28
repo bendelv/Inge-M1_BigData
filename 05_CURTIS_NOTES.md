@@ -7,15 +7,15 @@
  Give equations about how to estimate co2 emission etc.
 
 - __Database edgar__:  
-https://edgar.jrc.ec.europa.eu/overview.php?v=booklet2019&dst=GHGpc  
-values in fossil_CO2_totals_by_country sheet are expressed in Mt CO2/yr 
-values in fossil_CO2_by_sector_and_countr sheet are expressed in Mt CO2/yr								
-values in fossil_CO2_per_GDP_by_country sheet are expressed in t CO2/kUSD/yr								
-values in fossil_CO2_per_capita_by_countr sheet are expressed in t CO2/cap/yr								
-values in fossil_GHG_totals_by_country sheet are expressed in Mt CO2eq/yr								
-values in fossil_GHG_by_sector_and_country sheet are expressed in Mt CO2eq/yr								
-values in fossil_GHG_per_GDP_by_country sheet are expressed in t CO2eq/kUSD/yr								
-values in fossil_GHG_per_capita_by_country sheet are expressed in t CO2eq/capyr	
+https://edgar.jrc.ec.europa.eu/overview.php?v=booklet2019&dst=GHGpc<br/>
+values in fossil_CO2_totals_by_country sheet are expressed in Mt CO2/yr<br/>
+values in fossil_CO2_by_sector_and_countr sheet are expressed in Mt CO2/yr<br/>
+values in fossil_CO2_per_GDP_by_country sheet are expressed in t CO2/kUSD/yr<br/>
+values in fossil_CO2_per_capita_by_countr sheet are expressed in t CO2/cap/yr<br/>
+values in fossil_GHG_totals_by_country sheet are expressed in Mt CO2eq/yr<br/>
+values in fossil_GHG_by_sector_and_country sheet are expressed in Mt CO2eq/yr<br/>
+values in fossil_GHG_per_GDP_by_country sheet are expressed in t CO2eq/kUSD/yr<br/>
+values in fossil_GHG_per_capita_by_country sheet are expressed in t CO2eq/capyr
 
 - __Database worldBank__:  
 https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE?end=2012&locations=EU&start=1970&view=chart  
