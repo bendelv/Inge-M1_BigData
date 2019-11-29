@@ -42,5 +42,19 @@ Less precise links:
 
 	https://www.eea.europa.eu/themes/climate/different-emission-estimates/emission-estimates-produced-by-eu
  
+EU policies sources:
+
+	https://ec.europa.eu/clima/policies/strategies/2030_en
+	
+	https://ec.europa.eu/clima/policies/strategies/2020_en
+
+	https://www.consilium.europa.eu/en/policies/climate-change/#
+
+	https://ec.europa.eu/eurostat/statistics-explained/pdfscache/1180.pdf
+
+	https://ec.europa.eu/clima/policies/effort/framework_en
+
+
+
 ## REMARKS
 (BEN) les sources pour UE objectives?
