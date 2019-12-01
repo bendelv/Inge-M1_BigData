@@ -44,8 +44,11 @@
 * [KAGGLE](https://www.kaggle.com/datasets)
 * [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
 
-## TO BE READ ARTICLES AND TO CHECK TERMS
-* [Energy Imports on the rise](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/DDN-20191021-1)
+## INTERESTING WEBSITES AND ARTICLES
+* [Environmental literacy for education.](https://enviroliteracy.org/)
+* [Energy Imports on the rise.](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/DDN-20191021-1)
+* [Michigan courses about global changes](https://globalchange.umich.edu/globalchange1/current/lectures/)  
+Check Week9 for climate model and prediction
 
 ## USEFUL GIT/LATEX/MARKDOWN TUTO/TOOL
  * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

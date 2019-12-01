@@ -6,4 +6,8 @@ As example, "Is CO2 responsible of climate change?" [Veritasium video](https://w
 Seems to contain good references as sources. DOWN SINCE 26/11??
 
 3.
+
+explaining changes in past: https://en.wikipedia.org/wiki/Milankovitch_cycles  
+Milankovitch parameters: https://earthobservatory.nasa.gov/features/Milankovitch
 ## REMARKS
+
