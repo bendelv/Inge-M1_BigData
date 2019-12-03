@@ -1,7 +1,17 @@
 # Big Data Project EU CO2 emissions
 
 ## PLANS
-### NEXT MILESTONE 
+
+### FEED BACK MS1
+* Scope too big
+* Unrealistic to asses policy impacts?
+* Need a timeline
+
+### PV 2019-12-02
+* Re do timeline
+* Do experiences on Belgium data -> get a methodology
+* Assemble databases (co2 measures - demography .. -energy mix- .. - PIB - .. )
+* Choose a baseline/benchmark - method and 'business as usual' predicitons
 
 ## RESEARCH QUESTIONS
 * What are factors of growth of CO2 emissions? Trends? Dynamics btw sources?
