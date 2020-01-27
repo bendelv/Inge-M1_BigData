@@ -2,7 +2,7 @@
 
 ## Definitions
 - __Energy intensity__:  
-A measure of the energy inefficiency of an economy.  
+A measure of the energy efficiency of an economy.  
 It is calculated as units of energy per unit of GDP.
 
 - __CO2 equivalent__:  
