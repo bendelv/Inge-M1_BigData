@@ -39,6 +39,9 @@
 * [Michigan courses about global changes](https://globalchange.umich.edu/globalchange1/current/lectures/)  
 Check Week9 for climate model and prediction
 
+## MODELS AND METHODS
+* [Multivariate time series](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/)
+
 ## USEFUL GIT/LATEX/MARKDOWN TUTO/TOOL
  * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * [Learn GIT branching](https://learngitbranching.js.org/)
