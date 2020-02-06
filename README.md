@@ -27,6 +27,7 @@
 
 ## OVERLEAF LINKS
 - [Milestone 1](https://www.overleaf.com/4995682689wckysczrmrvv)
+- [Milestone 2](https://www.overleaf.com/9711913498xxdgqtdtdcth)
 
 ## USEFUL DBs PLATEFORMS
 
