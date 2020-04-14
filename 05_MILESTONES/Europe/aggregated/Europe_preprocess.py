@@ -40,7 +40,7 @@ nrg_int = nrg.values / gdp.values
 nrg_int = pd.DataFrame({'nrg_int': nrg_int}, index=pop.index)
 nrg_int18 = nrg_int.iloc[28].values[0]
 
-# Calculate carbon intensity [Mt CO2/toe]
+# Calculate carbon intensity [t CO2/toe]
 co2_int = co2.values / nrg.values
 co2_int = pd.DataFrame({'co2_int': co2_int}, index=pop.index)
 co2_int18 = co2_int.iloc[28].values[0]
