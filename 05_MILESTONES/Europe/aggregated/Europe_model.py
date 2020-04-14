@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import pickle
+
 import matplotlib.pyplot as plt
 from sklearn.kernel_ridge import KernelRidge
 
@@ -42,6 +44,8 @@ model = make_pipeline(StandardScaler(), GridSearchCV(KernelRidge(kernel='rbf', g
                                                                  "gamma": np.logspace(-2, 2, 5)}))
 
 fitted = model.fit(X_train, y_train)
+filename = 'stdKR_model.sav'
+pickle.dump(model, open(filename, 'wb'))
 
 pred_X = fitted.predict(X)
 pred_val = fitted.predict(X_val)
