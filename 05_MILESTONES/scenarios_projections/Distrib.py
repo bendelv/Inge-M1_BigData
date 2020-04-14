@@ -35,22 +35,25 @@ ssp5 = ['pop_SSP5.csv', 'gdp_SSP5.csv', 'EnergyIntensity_SSP5.csv', 'CarbonInten
 
 
 def stat_scenario(scenario):
-    df_stat = pd.DataFrame({})
+    df_mean = pd.DataFrame({})
+    df_std = pd.DataFrame({})
     for file in scenario:
         df = pd.read_csv(from_dir + file, index_col=['Unnamed: 0'])
 
         m = df.mean()
-        col_name = file.split('_')[0] + '_mean'
-        df_stat[col_name] = m
+        col_name = file.split('_')[0]
+        df_mean[col_name] = m
 
         std = df.std()
-        col_name = file.split('_')[0] + '_std'
-        df_stat[col_name] = std
-    df_stat.index = np.arange(2019, 2032)
-    return df_stat
+        col_name = file.split('_')[0]
+        df_std[col_name] = std
+    df_mean.index = np.arange(2019, 2032)
+    df_std.index = np.arange(2019, 2032)
+
+    return df_mean, df_std
 
 
 # example pour ssp1
-stat_ssp1 = stat_scenario(ssp1)
-print(stat_ssp1['CarbonIntensity_mean'])
-print(stat_ssp1['CarbonIntensity_std'])
+mean_ssp1, std_ssp1 = stat_scenario(ssp1)
+print(mean_ssp1['CarbonIntensity'])
+print(std_ssp1['CarbonIntensity'])
