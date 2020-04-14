@@ -50,7 +50,7 @@ co2 = pd.DataFrame({'co2': co2}, index=pop.index)
 
 var18 = [pop18, gdpc18, nrg_int18, co2_int18]
 var18 = pd.DataFrame({'pop': [var18[0]], 'gdpc': [var18[1]], 'nrgint': [var18[2]], 'co2int': [var18[3]]}, index=[2018])
-# var18.to_csv('var18.csv')
+var18.to_csv('var18.csv')
 
 df = [pop, gdpc, nrg_int, co2_int, co2]
 df = pd.concat(df, axis=1, sort=False, join='inner')
