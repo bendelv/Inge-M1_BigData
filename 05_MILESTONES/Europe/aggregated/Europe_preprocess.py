@@ -11,9 +11,11 @@ print(pop)
 
 gdp = pd.read_csv('gdp_worldbank.csv')
 gdp = gdp.transpose()
-gdp = gdp.loc[:, 0]
-gdp = gdp.iloc[14:]
+gdp = gdp.loc[:, :1]
+gdp = gdp.iloc[4:]
 gdp.index = gdp.index.map(lambda x: int(x.split(' ')[0]))
+gdp[0] = gdp[0] + gdp[1]
+gdp = gdp.drop([1], axis=1)
 gdp = gdp.drop([2019])
 print(gdp)
 
@@ -31,12 +33,13 @@ co2 = co2['EU28'].str.replace(",", ".").astype(float) * (10 ** 6)
 print(co2)
 
 # Calculate GDP per capita [$(2010)/capita]
-gdpc = gdp.values / pop.values
+gdpc = gdp[0].values / pop.values
 gdpc = pd.DataFrame({'gdpc': gdpc}, index=pop.index)
+
 gdpc18 = gdpc.iloc[28].values[0]
 
 # Calculate energy intensity [toe/$(2010)]
-nrg_int = nrg.values / gdp.values
+nrg_int = nrg.values / gdp[0].values
 nrg_int = pd.DataFrame({'nrg_int': nrg_int}, index=pop.index)
 nrg_int18 = nrg_int.iloc[28].values[0]
 
