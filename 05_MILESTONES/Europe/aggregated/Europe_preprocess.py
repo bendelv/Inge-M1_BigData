@@ -29,6 +29,8 @@ print(nrg)
 co2 = pd.read_csv('fossilCO2_emissions_edgar.csv', skiprows=1)
 co2.set_index('date', inplace=True)
 co2 = co2.iloc[20:]
+
+# transform milion tonne into tonne CO2
 co2 = co2['EU28'].str.replace(",", ".").astype(float) * (10 ** 6)
 print(co2)
 

@@ -44,3 +44,29 @@ for scen in co2:
         df = pd.DataFrame(m)
         df.drop([12], axis=1, inplace=True)
         df.to_csv(to_dir + 'co2/' + scen)
+
+df = pd.read_csv('../Europe/aggregated/fuels_mix.csv')
+fuels_mix2017 = df.iloc[-1].str.replace(",", ".").astype(float) * (10 ** 6)
+fuels_mix2017 = fuels_mix2017.to_numpy()[1:]
+print(fuels_mix2017)
+
+coal = ['coal_SSP1.csv', 'coal_SSP2.csv', 'coal_SSP3.csv', 'coal_SSP4.csv', 'coal_SSP5.csv']
+oil = ['oil_SSP1.csv', 'oil_SSP2.csv', 'oil_SSP3.csv', 'oil_SSP4.csv', 'oil_SSP5.csv']
+gas = ['gas_SSP1.csv', 'gas_SSP2.csv', 'gas_SSP3.csv', 'gas_SSP4.csv', 'gas_SSP5.csv']
+
+fuels = [gas, oil, coal]
+
+for var in np.arange(len(fuels)):
+    for file in fuels[var]:
+        df = pd.read_csv(from_dir+'fuels/'+file, index_col=['Unnamed: 0'])
+        m = df.to_numpy()
+
+        for i in np.arange(m.shape[0]):
+            val = fuels_mix2017[var]
+            for j in np.arange(m.shape[1]):
+                val = val*(m[i][j]/100 + 1)
+                m[i][j] = val
+
+        df = pd.DataFrame(m)
+        df.drop([13], axis=1, inplace=True)
+        df.to_csv(to_dir+ 'fuels/'+file)
