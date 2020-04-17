@@ -46,6 +46,7 @@ for scen in co2:
         df.to_csv(to_dir + 'co2/' + scen)
 
 df = pd.read_csv('../Europe/aggregated/fuels_mix.csv')
+print(df)
 fuels_mix2017 = df.iloc[-1].str.replace(",", ".").astype(float) * (10 ** 6)
 fuels_mix2017 = fuels_mix2017.to_numpy()[1:]
 print(fuels_mix2017)

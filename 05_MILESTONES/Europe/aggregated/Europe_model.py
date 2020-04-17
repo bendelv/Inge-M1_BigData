@@ -32,7 +32,7 @@ df = pd.read_csv('EU28_dataconcat.csv', index_col=0)
 X = df[['pop', 'gdpc', 'nrg_int', 'est_ci']].to_numpy()
 y = df['co2'].to_numpy()
 
-nbr_train = 20
+nbr_train = 28
 y_train = y[:nbr_train]
 y_val = y[nbr_train:]
 
